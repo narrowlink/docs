@@ -1,0 +1,39 @@
+site_name: Narrowlink
+repo_url: https://github.com/narrowlink/
+theme:
+  name: material
+  logo: assets/NarrowLink-fff.svg
+  favicon: assets/NarrowLink-888.svg
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+  prev_next_buttons_location: bottom
+extra:
+  homepage: https://narrowlink.com
+  generator: false
+
+nav:
+  - Home: index.md
+  - Getting started:
+      [
+        index: getting-started/index.md,
+        installation: getting-started/installation.md,
+      ]
+  - Client: client/index.md
+  - Agent: agent/index.md
+  - Gateway: gateway/index.md
