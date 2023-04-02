@@ -1,6 +1,9 @@
 #Architecture 
 
 Narrowlink is composed of three primary components that facilitate NAT traversal, as illustrated in the accompanying diagram and described below.
+<figure markdown>
+![Picture](/assets/Diagram.svg) <figcaption>System Architecture</figcaption>
+</figure>
 
 ##Client
 The client component of Narrowlink is responsible for sending and receiving packets to or from end users and forwarding them to the Narrowlink network infrastructure. This component is typically installed on the end user's device or server, and it communicates with the Agent component to facilitate NAT traversal.
