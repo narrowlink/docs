@@ -26,12 +26,18 @@ theme:
 extra:
   homepage: https://narrowlink.com
   generator: false
-
+markdown_extensions:
+  - attr_list
+  - md_in_html
+plugins:
+    - redirects:
+        redirect_maps:
+            'index.md': 'getting-started/introduction.md'
 nav:
   - Home: index.md
   - Getting started:
       [
-        index: getting-started/index.md,
+        introduction: getting-started/introduction.md,
         installation: getting-started/installation.md,
       ]
   - Client: client/index.md
