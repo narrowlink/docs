@@ -43,8 +43,10 @@ nav:
   - Home: index.md
   - Getting started:
       [
-        introduction: getting-started/introduction.md,
-        installation: getting-started/installation.md,
+        Introduction: getting-started/introduction.md,
+        Architecture: getting-started/architecture.md,
+        Installation: getting-started/installation.md,
+        Use Cases: getting-started/use-cases.md,
       ]
   - Client: client/index.md
   - Agent: agent/index.md
