@@ -48,6 +48,12 @@ nav:
         Installation: getting-started/installation.md,
         Use Cases: getting-started/use-cases.md,
       ]
-  - Client: client/index.md
+  - Client: 
+      [
+        Introduction: client/introduction.md,
+        Port Forwarding: client/port-forwarding.md,
+        Proxy: client/proxy.md,
+        Connect: client/connect.md,
+      ]
   - Agent: agent/index.md
   - Gateway: gateway/index.md
