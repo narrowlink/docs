@@ -1,5 +1,7 @@
 site_name: Narrowlink
 repo_url: https://github.com/narrowlink/
+edit_uri: /narrowlink/docs/blob/main/docs/
+copyright: Copyright &copy; 2023
 theme:
   name: material
   logo: assets/NarrowLink-fff.svg
@@ -22,6 +24,8 @@ theme:
         name: Switch to light mode
   features:
     - navigation.tabs
+    - content.action.edit
+    - content.action.view
   prev_next_buttons_location: bottom
 extra:
   homepage: https://narrowlink.com
