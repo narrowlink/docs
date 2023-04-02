@@ -24,6 +24,7 @@ theme:
         name: Switch to light mode
   features:
     - navigation.tabs
+    - navigation.footer
     - content.action.edit
     - content.action.view
   prev_next_buttons_location: bottom
