@@ -2,7 +2,7 @@
 
 Narrowlink is a powerful and multi-purpose tool that provides high-performance NAT traversal capabilities, enabling you to publish TLS-secured web services to the internet even when your server is behind a NAT network. With Narrowlink, you can also share the network of a computer that is behind a NAT network with another computer that is also behind another NAT network.
 <figure markdown>
-![Picture](/assets/NarrowLink-888.svg){ width="400" height="400"}  <figcaption>Narrowlink Logo</figcaption>
+![Narrowlink Logo](/assets/NarrowLink-888.svg){ width="400" height="400"}  <figcaption>Narrowlink Logo</figcaption>
 </figure>
 Narrowlink is written in [Rust], a modern programming language known for its reliability, memory safety, and performance. By leveraging the unique features of Rust, Narrowlink achieves excellent performance and stability while maintaining a small memory footprint.
 

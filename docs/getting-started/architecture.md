@@ -2,7 +2,7 @@
 
 Narrowlink is composed of three primary components that facilitate NAT traversal, as illustrated in the accompanying diagram and described below.
 <figure markdown>
-![Picture](/assets/Diagram.svg) <figcaption>System Architecture</figcaption>
+![Narrowlink System Architecture](/assets/Diagram.svg) <figcaption>System Architecture</figcaption>
 </figure>
 
 ##[Client]
