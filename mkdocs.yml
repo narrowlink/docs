@@ -40,6 +40,7 @@ theme:
 extra:
   homepage: https://narrowlink.com
   generator: false
+  meta_generator: false
 markdown_extensions:
   - attr_list
   - md_in_html
