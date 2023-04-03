@@ -3,6 +3,8 @@ site_url: https://docs.narrowlink.com/
 repo_url: https://github.com/narrowlink/
 edit_uri: /narrowlink/docs/blob/main/docs/
 repo_name: narrowlink
+site_description: "Narrowlink is a versatile and powerful tool that facilitates high-performance NAT traversal, allowing you to publish TLS-secured web services to the internet, even when your server is 
+behind a NAT network. It also enables you to share the network of a computer behind a NAT network with another computer that is also behind another NAT network"
 copyright: Copyright &copy; 2023
 theme:
   name: material
