@@ -5,7 +5,9 @@ edit_uri: /narrowlink/docs/blob/main/docs/
 repo_name: narrowlink
 site_description: "Narrowlink is a versatile and powerful tool that facilitates high-performance NAT traversal, allowing you to publish TLS-secured web services to the internet, even when your server is 
 behind a NAT network. It also enables you to share the network of a computer behind a NAT network with another computer that is also behind another NAT network"
-copyright: Copyright &copy; 2023
+copyright: 'Copyright &copy; 2023</div><div>Made with <a rel="nofollow external noreferrer" href="https://github.com/squidfunk/mkdocs-material/" target="_blank"
+    rel="noopener">Material</a> for <a rel="nofollow external noreferrer" href="https://github.com/mkdocs/mkdocs/" target="_blank"
+    rel="noopener">MkDocs</a>'
 theme:
   name: material
   custom_dir: overrides
