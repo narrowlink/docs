@@ -1,6 +1,6 @@
 site_name: Narrowlink
 site_url: https://docs.narrowlink.com/
-repo_url: https://github.com/narrowlink/
+repo_url: https://github.com/narrowlink/narrowlink
 edit_uri: /narrowlink/docs/blob/main/docs/
 repo_name: narrowlink
 site_description: "Narrowlink is a versatile and powerful tool that facilitates high-performance NAT traversal, allowing you to publish TLS-secured web services to the internet, even when your server is 
@@ -14,7 +14,7 @@ theme:
   logo: assets/NarrowLink-fff.svg
   favicon: assets/NarrowLink-888.svg
   icon:
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/git-alt
 
   palette:
     # Palette toggle for light mode
@@ -40,6 +40,11 @@ theme:
     - content.action.view
   prev_next_buttons_location: bottom
 extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/narrowlink
+    - icon: fontawesome/brands/docker 
+      link: https://hub.docker.com/r/narrowlink
   homepage: https://narrowlink.com
   generator: false
   meta_generator: false
