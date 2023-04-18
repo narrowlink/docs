@@ -23,11 +23,11 @@ To install Narrowlink using Cargo, you must first install Cargo. On macOS, Linux
 If you're using Windows, please refer to the "[Other Installation Methods]" section on the Rust website.
 
 ### Client
-```cargo install narrowlink```
+```cargo install --git https://github.com/narrowlink/client```
 ### Agent
-```cargo install narrowlink-agent```
+```cargo install --git https://github.com/narrowlink/agent```
 ### Gateway
-```cargo install narrowlink-gateway```
+```cargo install --git https://github.com/narrowlink/gateway```
 
 ##Precompiled Binary
 If you prefer to use precompiled binaries, they are available on the GitHub release page. Currently, we provide binaries for Linux, macOS, and Windows platforms for both ARM and x86 architectures. However, it's worth noting that Narrowlink is not limited to these platforms - you can build for other targets using alternative installation methods.
