@@ -11,7 +11,7 @@ Narrowlink is a versatile tool that can be used in various scenarios based on yo
 ## Examples
 You can find specific practical examples of using Narrowlink in the following:
 
-### Publish Web Services
-### Share network access
-### SSH
-### RDP
+- [Publish Web Services](/agent/publish/)
+- [Share network access](/client/proxy/)
+- [Port Forwarding](/client/port-forwarding/)
+- [SSH](/client/connect/)

@@ -68,9 +68,13 @@ nav:
   - Client: 
       [
         Introduction: client/introduction.md,
-        Port Forwarding: client/port-forwarding.md,
         Proxy: client/proxy.md,
+        Port Forwarding: client/port-forwarding.md,
         Connect: client/connect.md,
       ]
-  - Agent: agent/index.md
+  - Agent:
+      [
+        Introduction: agent/introduction.md,
+        Publish Web Server: agent/publish.md
+      ]
   - Gateway: gateway/index.md
