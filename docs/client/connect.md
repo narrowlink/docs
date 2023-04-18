@@ -1,4 +1,4 @@
-The Narrowlink client can acts like netcat command to connect to the services that are running on the agent network machine. It is useful for various porpurses such as connecting to a ssh server behind a restricted NAT network by using official ssh client.
+The Narrowlink client can acts like `netcat` command to connect to the services that are running on the agent network machine. It is useful for various porpurses such as connecting to a ssh server behind a restricted NAT network by using official ssh client.
 
 Follow the steps below to connect to a ssh server by using narrowlink and official ssh client:
 
