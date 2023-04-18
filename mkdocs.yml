@@ -71,10 +71,16 @@ nav:
         Proxy: client/proxy.md,
         Port Forwarding: client/port-forwarding.md,
         Connect: client/connect.md,
+        License: client/license.md,
       ]
   - Agent:
       [
         Introduction: agent/introduction.md,
-        Publish Web Server: agent/publish.md
+        Publish Web Server: agent/publish.md,
+        License: agent/license.md
       ]
-  - Gateway: gateway/index.md
+  - Gateway:
+      [
+        Introduction: gateway/index.md,
+        License: gateway/license.md
+      ]
