@@ -45,6 +45,12 @@ extra:
       link: https://github.com/narrowlink
     - icon: fontawesome/brands/docker 
       link: https://hub.docker.com/r/narrowlink
+    - icon: fontawesome/brands/telegram 
+      link: https://t.me/narrowlink
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/narrowlink
+    - icon: fontawesome/brands/rust 
+      link: https://crates.io/crates/narrowlink
   homepage: https://narrowlink.com
   generator: false
   meta_generator: false
